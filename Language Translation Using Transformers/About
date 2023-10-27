@@ -1,0 +1,11 @@
+It's an Language Translation problem where i've tried to implement the Transformer model from scratch.
+Using Tensorflow, i've implemented the concepts of transformes for the English to French translation.
+Major parts of a transformer architecture would be:
+  A. Positional Encoding
+  B. Padding Mask
+  C. Look Ahead Mask
+  D. Self Attention
+  E. Multi Head Attention
+  F. Encoder
+  G. Decoder
+  H. Transformer
