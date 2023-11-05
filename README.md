@@ -4,4 +4,4 @@
 * Model building using machine learning and deep learning concepts.
 * Implementing concepts like RNNs, LSTMs, Bi-directional LSTMs, SEQ2SEQ model, Encoder-Deocer and Transformers.
 * Following concepts like transfer learning by utlizing LLMs like Bert, GPT, BART etc.
-* Taks covered like, Text classification/sentiment analysis, translation, text generation, text summarization, image captioning etc.
+* Tasks covered like, Text classification/sentiment analysis, translation, text generation, text summarization, image captioning etc.
