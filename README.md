@@ -1,2 +1,7 @@
 # NLP
-This repository contains project related to Natural Language Processing, along with practical implementation of  concepts like python, machine learning, deep learning, lstm and others.
+* This repository contains project related to Natural Language Processing.
+* Concepts like text preprocessing, vectorizations and enabling it to be in correct format.
+* Model building using machine learning and deep learning concepts.
+* Implementing concepts like RNNs, LSTMs, Bi-directional LSTMs, SEQ2SEQ model, Encoder-Deocer and Transformers.
+* Following concepts like transfer learning by utlizing LLMs like Bert, GPT, BART etc.
+* Taks covered like, Text classification/sentiment analysis, translation, text generation, text summarization, image captioning etc.
