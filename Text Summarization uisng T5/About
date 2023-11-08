@@ -1,0 +1,15 @@
+model_path = "t5-small"
+data_path = "EdinburghNLP/xsum"
+Framework used = Tensorflow, HugginFace T5 model
+
+Concept Used:
+  1. Transfer Learning
+  2. Fine tuning LLMs
+
+
+Due to limited resources, i used small portions of data and ran my model for just 5 epochs.
+Ideally, huge data is required , and some fine tuning like Sequence Lenght, vocab size, learning rate and metrics needs to be looked after.
+
+For now, i got decent results, about loss: 0.8.
+
+Thanks
